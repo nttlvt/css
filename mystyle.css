@@ -1,0 +1,15 @@
+body {
+    background: orange;
+}
+div {
+    width: 200px;
+    height: 60px;
+    background: pink;
+    color: orange;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border: 30px solid white;
+    border-top: 100px solid white;
+    border-bottom: 100px solid white;
+}
